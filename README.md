@@ -2,10 +2,6 @@
 
 Um conversor de moedas simples e eficiente que permite converter valores entre Real (BRL) e Dólar Americano (USD) em tempo real.
 
-## 📸 Screenshot
-
-![Conversor Real/Dólar](https://i.imgur.com/SEUFOTO.png)
-
 ## 📋 Sobre o Projeto
 
 Este projeto foi desenvolvido para facilitar a conversão rápida entre as moedas Real (BRL) e Dólar (USD). Com uma interface limpa e minimalista, o usuário pode inserir valores em qualquer uma das moedas e obter instantaneamente a conversão equivalente.
